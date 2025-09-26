@@ -38,6 +38,12 @@ The dashboard highlights:
 📌 State-wise Loan Applications
 📌 DTI (Debt-to-Income) insights
 
+🔹 Snapshot of dshboards 
+
+* https://github.com/harish777178/Bank_Loan_Project/blob/main/Dashboard%201.png
+* https://github.com/harish777178/Bank_Loan_Project/blob/main/Dashboard%202.png
+* https://github.com/harish777178/Bank_Loan_Project/blob/main/Dashboard%203.png
+
 
 
 🔹 Key Learnings
@@ -60,7 +66,5 @@ Explore insights & modify queries/dashboards as needed
 📧 hpwadepalli@gmail.com
 💼 http://www.linkedin.com/in/harishwadepalli
 
-https://github.com/harish777178/Bank_Loan_Project/blob/main/Dashboard%201.png
-https://github.com/harish777178/Bank_Loan_Project/blob/main/Dashboard%202.png
 
 
