@@ -60,4 +60,6 @@ Explore insights & modify queries/dashboards as needed
 📧 hpwadepalli@gmail.com
 💼 http://www.linkedin.com/in/harishwadepalli
 
+https://github.com/harish777178/Bank_Loan_Project/blob/main/Dashboard%201.png
+
 
