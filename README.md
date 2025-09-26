@@ -38,7 +38,7 @@ The dashboard highlights:
 📌 State-wise Loan Applications
 📌 DTI (Debt-to-Income) insights
 
-👉 Screenshot of the dashboard here
+
 
 🔹 Key Learnings
 
