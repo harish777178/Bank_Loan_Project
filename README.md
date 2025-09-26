@@ -58,7 +58,6 @@ Explore insights & modify queries/dashboards as needed
 
 👤 Harish Prakash Wadepalli
 📧 hpwadepalli@gmail.com
+💼 http://www.linkedin.com/in/harishwadepalli
 
-💼 [LinkedIn Profile]
 
-🐙 [GitHub Profile]
